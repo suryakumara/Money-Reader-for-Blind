@@ -1,6 +1,6 @@
 # Pembaca-Nominal-Uang
 
-Alat pembaca nominal uang 
+Alat pembaca nominal uang untuk para tunanetra.
 
 Sebagian logic codenya saya kerjakan di aplikasi (MONRE). Jadi code di arduino hanya membaca nominal uangnya.
 
